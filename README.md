@@ -1,2 +1,2 @@
-＃mycode-JS
-这个文件包含ajaxget和post的用法，和02自己装的ajax函数.
+＃mycoe-JS
+这个文件包含ajax的get和post的用法，还有01中最后一个简单的配置了一个本地服务器的代码.02是封装的一个myajax的函数.
